@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17e98792-4366-4e25-b2b2-b3c16191ddd0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="17e98792-4366-4e25-b2b2-b3c16191ddd0" name="Default" comment="" />
     <ignored path="symfony2-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -305,7 +302,7 @@
       <workItem from="1479199611908" duration="2693000" />
       <workItem from="1479260738597" duration="1033000" />
       <workItem from="1479262703705" duration="1187000" />
-      <workItem from="1479274191090" duration="2711000" />
+      <workItem from="1479274191090" duration="3310000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1479276188445</created>
@@ -332,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7624000" />
+    <option name="totallyTimeSpent" value="8223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
