@@ -22,7 +22,7 @@ class LuckyController
         $number = rand(0, 100);
 //        echo $number;exit;
         return new Response(
-            '<html><body>Lucky number is: '.$number.'</body></html>'
+            '<html><body>Lucky number is11: '.$number.'</body></html>'
         );
     }
 }
